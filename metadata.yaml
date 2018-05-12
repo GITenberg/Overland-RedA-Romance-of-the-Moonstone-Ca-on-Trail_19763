@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '4257'
     url: http://www.gutenberg.org/2009/agents/4257
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19763#Overland-RedA-Romance-of-the-Moonstone-Ca-on-Trail
 gutenberg_issued: '2006-11-11'
 gutenberg_type: Text
 identifiers:
